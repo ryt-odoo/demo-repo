@@ -1,2 +1,2 @@
 # read me
-this is a learning project
+this is a learning project!
